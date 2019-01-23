@@ -1,6 +1,6 @@
 <template lang="pug">
 #app
-  img(src='https://borgesgabo.github.io/lastfm-music/dist/logo.png')
+  img(src='dist/logo.png')
   h1 herbert-Music
   
   select(v-model="SelectedCountry")
